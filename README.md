@@ -328,11 +328,3 @@ Before deploying to production, make sure to:
 5. Open a Pull Request
 
 ---
-
-## License
-
-This project was built as part of the **Meta Back-End Developer Professional Certificate** capstone. It is intended for educational purposes.
-
----
-
-> Built with 🍋 and Django by a back-end developer in training.
