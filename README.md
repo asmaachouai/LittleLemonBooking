@@ -43,7 +43,7 @@ Little Lemon is a restaurant web application that allows customers to browse the
 | Database | MySQL |
 | Authentication | DRF Token Authentication |
 | Version Control | Git + GitHub |
-| HTTP Testing | Insomnia / Postman / HTTPie |
+| HTTP Testing | Insomnia  |
 | IDE | VS Code |
 
 ---
